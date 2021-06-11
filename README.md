@@ -44,7 +44,7 @@ Blueberry running on a Raspberry ;)
 - 3d Printer for a stand
 
 ## Installation
-You should be able to set up a Raspberry Pi and then you can clone this repository.
+After having setup your raspberry pi (installed raspian buster) you can clone this repository.
 You also need the following software:
 
 ### Required software
