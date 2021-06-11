@@ -1,0 +1,14 @@
+apa102-pi==2.4.1
+caldav==0.7.1
+deepspeech==0.9.3
+gpiozero==1.6.2
+numpy==1.20.3
+pandas==1.2.4
+pvporcupine==1.8.1
+PyAudio==0.2.11
+requests==2.21.0
+RPi.GPIO==0.7.0
+schedule==0.6.0
+scipy==1.4.1
+smbus2==0.3.0
+spidev==3.5
